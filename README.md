@@ -1,0 +1,2 @@
+# taico
+The AI coordinator
